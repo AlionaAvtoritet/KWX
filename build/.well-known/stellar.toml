@@ -7,12 +7,12 @@ ACCOUNTS=[
 VERSION="2.2.1"
 
 [DOCUMENTATION]
-ORG_NAME="MetalInvest"
-ORG_URL="https://www.metalinvest.org"
-ORG_DESCRIPTION="METALINVEST IS THE FIRST PLATFORM FOR TOKENIZED PRECIOUS METALS, ENABLING EVERYONE TO ACCESS THE $856B+ GLOBAL METAL MARKET."
-ORG_TWITTER="@Metalinvest_org"
-ORG_LOGO="https://i.ibb.co/52ZfzS6/metalinvest-org.png"
-ORG_OFFICIAL_EMAIL="metalinvestnet@gmail.com"
+ORG_NAME="KWX Platform"
+ORG_URL="https://kwxtoken.netlify.app"
+ORG_DESCRIPTION="As a cryptocurrency, KWX is not subject to the same regulations and restrictions as traditional currencies, making it a powerful tool for individuals and businesses looking for more flexibility and control over their finances. With KWX, users can easily send and receive payments, invest in the currency itself, or use it as a hedge against traditional currency fluctuations."
+ORG_TWITTER="@kwx"
+ORG_LOGO="https://i.ibb.co/kGjLXCz/KWX.png"
+ORG_OFFICIAL_EMAIL="kwx_support@gmail.com"
 
 
 [[CURRENCIES]]
